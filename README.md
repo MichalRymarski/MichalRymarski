@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🔭 **Currently Working On**: [CareTrack](https://github.com/Medical-IT-systems-team-project/MITP-mobile)  
+- 🔭 **Currently Working On**: [CareTrack](https://github.com/Medical-IT-systems-team-project/CareTrack)  
 - 🌱 **Currently Learning**: Kotlin Multiplatform  
 - 📫 **Reach Me At**: [michal.rymarski.mail@gmail.com](mailto:michal.rymarski.mail@gmail.com)  
 - 📄 **My Experiences**: [LinkedIn Profile](https://www.linkedin.com/in/michal-rymarski/)  
